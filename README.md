@@ -29,8 +29,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> 
 <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
 
+<h3 align="left">Statistics:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mernaislam&show_icons=true&locale=en&layout=compact" alt="mernaislam" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mernaislam&show_icons=true&locale=en" alt="mernaislam" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mernaislam&" alt="mernaislam" /></p>
