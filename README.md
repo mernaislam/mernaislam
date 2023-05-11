@@ -2,6 +2,7 @@
 <h3 align="center">A passionate Computer Science Student from Egypt</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mernaislam&label=Profile%20views&color=0e75b6&style=flat" alt="mernaislam" /> </p>
+<p align="left"> <img src="[https://komarev.com/ghpvc/?username=mernaislam&label=Profile%20views&color=0e75b6&style=flat](https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112)" alt="coding" /> </p>
 
 - 🌱 I’m currently learning **Data Science and Problem Solving**
 
