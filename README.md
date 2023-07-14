@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mernaislam&label=Profile%20views&color=0e75b6&style=flat" alt="mernaislam" /> </p>
 
-- 🌱 I’m currently learning **Data Science and Problem Solving**
+- 🌱 I’m currently learning **Flutter and Problem Solving**
 
 - 📫 How to reach me **mernaislam39@gmail.com**
 
