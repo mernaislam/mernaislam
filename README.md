@@ -9,7 +9,7 @@
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mernaislam&label=Profile%20views&color=0e75b6&style=flat" alt="mernaislam" /> </p>
 
-- 🌱 I’m currently learning **Flutter and Problem Solving**
+- 🌱 I’m currently working on **Flutter** and **Problem Solving**
 
 
 <br>
