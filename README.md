@@ -1,7 +1,6 @@
 <hr>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=2000&center=true&vCenter=true&random=false&width=1200&lines=%E2%9C%A8+Welcome+to+Merna's+Github+%E2%9C%A8)](https://git.io/typing-svg)
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=50&pause=2000&center=true&vCenter=true&random=false&width=1200&height=100&lines=%E2%9C%A8+Welcome+to+Merna's+Github+%E2%9C%A8" alt="Typing SVG" /></a>
 <hr>
 
 <h3 align="center">A passionate Computer Science Student</h3>
