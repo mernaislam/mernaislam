@@ -2,7 +2,7 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=50&pause=2000&center=true&vCenter=true&random=false&width=1200&height=80&lines=%E2%9C%A8+Welcome+to+Merna's+Github+%E2%9C%A8" alt="Typing SVG" /></a>
 
-<h3 align="center">A passionate Computer Science Student</h3>
+<h3 align="center">Inquisitive Computer Science Student</h3>
 <img align="right" width="150" src="https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112" alt="coding" /> 
 
 
