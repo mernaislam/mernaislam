@@ -26,8 +26,8 @@
 </div>
 
 <br>
-<br/>
 <hr>
+<br/>
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
@@ -47,7 +47,7 @@
 <hr/>
 <br/>
 
-<h2 align="center">Statistics:</h2>
+<h1 align="center">Statistics:</h1>
 <br/>
 <p align="center">&nbsp;
 <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=mernaislam&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
