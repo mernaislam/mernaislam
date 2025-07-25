@@ -2,7 +2,7 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=50&pause=2000&center=true&vCenter=true&random=false&width=1200&height=80&lines=%E2%9C%A8+Welcome+to+Merna's+Github+%E2%9C%A8" alt="Typing SVG" /></a>
 
-<h3 align="center">Inquisitive Computer Science Student</h3>
+<h3 align="center">Inquisitive Computer Science Graduate</h3>
 <img align="right" width="150" src="https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112" alt="coding" /> 
 
 
@@ -20,8 +20,6 @@
     <a href="mailto:mernaislam39@gmail.com"><img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red"  alt="gmail"/></a>
     <h3 align="left">Know more about me:</h3>
     <a href="https://www.linkedin.com/in/merna-islam-68868a236/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="merna_islam" height="30" width="40" /></a>
-    <a href="https://www.leetcode.com/mernaislam" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mernaislam" height="30" width="40" /></a>
 </div>
 
 <br>
@@ -31,14 +29,12 @@
 <h1 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h1>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=,cpp,java,python,cs"  alt=""/><br>
+    <img src="https://skillicons.dev/icons?i=,swift,cpp,java,python"  alt=""/><br>
     <br/>    
-    <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,html,css,javascript,django,spring,postman" alt="" />
+    <img src="https://skillicons.dev/icons?i=swiftUI,flutter,dart,firebase,spring,postman" alt="" />
     <br/>
     <br/>
-    <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> 
-    <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>
-    <img src="https://skillicons.dev/icons?i=github" alt="" />
+    <img src="https://skillicons.dev/icons?i=sth,github,docker,kubernetes" alt="" />
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 </div>
 
